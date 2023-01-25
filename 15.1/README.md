@@ -27,6 +27,7 @@ Resource terraform для ЯО
 <img width="1370" alt="Screen Shot 2023-01-25 at 13 08 08" src="https://user-images.githubusercontent.com/36231585/214522889-1a940bfd-2f14-4403-b713-dd8748d6b583.png">
 <img width="966" alt="Screen Shot 2023-01-25 at 13 08 43" src="https://user-images.githubusercontent.com/36231585/214523053-814ccd86-1710-4b51-98fc-58fb9b54dae8.png">
 ```
+
 beketov@beketovs-MacBook-Pro ~ % cat .ssh/config 
 Host private-vm
 	Hostname 192.168.20.254
@@ -41,6 +42,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added '192.168.20.254' (ED25519) to the list of known hosts.
 Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-58-generic x86_64)
 beketov@vm-private:~$
+
 ```
 
 ## Задание 2*. AWS (необязательное к выполнению)
